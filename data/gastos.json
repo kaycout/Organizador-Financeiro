@@ -1,0 +1,9 @@
+{
+  "salario": 1900.0,
+  "gastos": [
+    {
+      "nome": "Faculdade Estácio",
+      "valor": 269.0
+    }
+  ]
+}
