@@ -1,5 +1,14 @@
 {
-  "salario": 1000.0,
-  "gastos": [],
-  "limite": 500.0
+  "salario": 2000.0,
+  "gastos": [
+    {
+      "nome": "Mensalidade faculdade",
+      "valor": 300.0
+    },
+    {
+      "nome": "Wi-fi",
+      "valor": 190.0
+    }
+  ],
+  "limite": 950.5
 }
