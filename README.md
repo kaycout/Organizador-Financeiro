@@ -48,10 +48,11 @@ Tudo é salvo em arquivos JSON, garantindo persistência simples e leve sem nece
 
 📦 estrutura-do-projeto
 - ┣ data - JSONs com os gastos por mês
-- ┣ py - controle_gastos.py # Código principal
+- ┣ imgs - EstruturaProjeto.png. json.png. ListaMeses.png. principal.png
+- ┣  py - controle_gastos.py # Código principal
 - ┗ README.md
 
-<img src="imgs/EstruturaDoProjeto.png" width=300>
+<img src="imgs/EstruturaProjeto.png" width=300>
 
 ---
 
