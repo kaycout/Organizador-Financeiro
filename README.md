@@ -48,12 +48,10 @@ Tudo é salvo em arquivos JSON, garantindo persistência simples e leve sem nece
 
 📦 estrutura-do-projeto
 - ┣ data - JSONs com os gastos por mês
-- ┣ py - controle_gasyos.py # Código principal
+- ┣ py - controle_gastos.py # Código principal
 - ┗ README.md
 
-Além de estar testando com uma segunda página. O arquivo se chama
-
-- ┣ controle_teste.py # Código alternativo.
+<img src="imgs/EstruturaDoProjeto.png" width=300>
 
 ---
 
@@ -69,7 +67,7 @@ python controle_gastos.py
 
 ## Tecnologias usadas
 
-- Python 3+
+- Python 
 - Flet (interface gráfica)
 - JSON (persistência dos dados)
 - OS / Datetime (auxiliares do sistema)
@@ -80,3 +78,4 @@ python controle_gastos.py
 
 
 - Principal objetivo - Trabalho Universitário.
+
